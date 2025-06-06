@@ -1,6 +1,9 @@
 # ⏱️ LatencyWatch
 
 [![PyPI version](https://badge.fury.io/py/latencywatch.svg)](https://pypi.org/project/latencywatch/0.1.0)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/latencywatch.svg?label=PyPI%20downloads)](
+https://pypi.org/project/latencywatch/)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **LatencyWatch** is a lightweight Python profiler for tracing nested function call latencies using `sys.setprofile`. It tracks execution time for every function call — including self-time (excluding children) — and presents a hierarchical report of where time was spent.
