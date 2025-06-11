@@ -37,7 +37,7 @@ pip install latencywatch
 🧪 Basic Usage
 
 ```python
-from latencywatch import LatencyWatch
+from latency_watch import LatencyWatch
 
 @LatencyWatch.watch
 def sample_workload():
