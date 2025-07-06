@@ -1,6 +1,6 @@
 # ⏱️ LatencyWatch
 
-[![PyPI version](https://badge.fury.io/py/latencywatch.svg)](https://pypi.org/project/latencywatch/0.1.0)
+[![PyPI version](https://badge.fury.io/py/latencywatch.svg)](https://pypi.org/project/latencywatch/0.2.0)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/latencywatch.svg?label=PyPI%20downloads)](
 https://pypi.org/project/latencywatch/)
 

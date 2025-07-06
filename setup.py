@@ -6,7 +6,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='latencywatch',
-    version='0.1.0',
+    version='0.2.0',
     description='A lightweight Python profiler using sys.setprofile for latency tracing',
     long_description=long_description,
     long_description_content_type='text/markdown',
